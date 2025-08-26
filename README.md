@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saikat Roy</h1>
+<h1 align="center">Hi, I'm Saikat Roy</h1>
 <h3 align="center">Data Engineer | DataOps</h3>
 
 - Certifications [AWS Data Engineer](https://drive.google.com/file/d/1jRnCZ1MumFB0Lcm-EgeVtzSdFugQpdfY/view?usp=sharing)
