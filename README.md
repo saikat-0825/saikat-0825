@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Saikat Roy</h1>
 <h3 align="center">DevOps | DataOps</h3>
 
-- Certifications [AWS Data Engineer](https://drive.google.com/file/d/1jRnCZ1MumFB0Lcm-EgeVtzSdFugQpdfY/view?usp=sharing)
+- Certifications [AWS CLF C02](https://drive.google.com/file/d/1seTBWVybpwGN9ULJC9pBdS_6KHXYZeb-/view?usp=drive_link)
 
-- Certifications [Azure Data Professional](https://drive.google.com/file/d/1Hy9KuiydCzOCKQ6bK5oqsAlqp0DyFtYA/view?usp=sharing)
+- Certifications [AWS Data Engineer](https://drive.google.com/file/d/1jRnCZ1MumFB0Lcm-EgeVtzSdFugQpdfY/view?usp=drive_link)
 
 - 📫 How to reach me **roysk0825@gmail.com**
 
